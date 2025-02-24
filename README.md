@@ -9,13 +9,12 @@
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
 
 <p>
-🎓 I’m a Computer Science Engineering student.  
-🌱 I’m currently learning **Front-End Development & Machine Learning.**  
-🤓 Always learning new things.  
-💬 Ask me about Front-End, Data Analysis, AI, and Problem-Solving.  
-🤝 I’m looking to collaborate with other developers and tech enthusiasts.  
-📧 Reach me at: **fedaabarbarosa@gmail.com**  
-📚 Documenting my learning journey.  
+- 🎓 I’m a Computer Science Engineering student.  
+- 🌱 I’m currently learning **Front-End Development & Machine Learning.**  
+- 🤓 Always learning new things.  
+- 💬 Ask me about Front-End, Data Analysis, AI, and Problem-Solving.  
+- 🤝 I’m looking to collaborate with other developers and tech enthusiasts.  
+- 📚 Documenting my learning journey.  
 </p>
 
 <div align="center">
